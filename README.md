@@ -25,3 +25,8 @@ A web-based student portal built using ASP.NET MVC and Entity Framework Core. Th
 - Database: SQL Server
 - ORM: Entity Framework Core
 - Frontend: HTML, CSS, JavaScript, Bootstrap
+---
+## Prerequisites
+  - Install .NET SDK (v6.0 or higher).
+  - Install SQL Server or use a local database like SQL Server Express.
+  - Install a code editor such as Visual Studio or Visual Studio Code.
